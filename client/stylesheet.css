@@ -1,0 +1,33 @@
+main{
+    width: 50%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+table{
+    margin: 50px auto;
+}
+
+table,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+th,td{
+    padding: 5px;
+}
+
+section{
+    margin: 50px auto;
+    display: none;
+    text-align: center;
+}
+#update-id-input{
+    margin: 50px auto;
+    text-align: center;
+}
+
+#update-input-input{
+    margin: 50px auto;
+    text-align: center;
+}
