@@ -1,3 +1,13 @@
+# Required Application
+
+**Code Editor Tool i.e.,Visual studio code**<br/>
+**PHP Mailer**<br/>
+**MySQL**<br/>
+**PHP**<br/>
+**Updated Browser**<br/>
+
+
+
 # Technologies Description
 
 Here we used Node.JS, Express, MySQL, JS mainly.<br/>
