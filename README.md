@@ -1,10 +1,9 @@
 # Required Application
 
 **Code Editor Tool i.e.,Visual studio code**<br/>
-**PHP Mailer**<br/>
+**NODE JS**<br/>
 **MySQL**<br/>
-**PHP**<br/>
-**Updated Browser**<br/>
+**EXPRESS**<br/>
 
 
 
